@@ -2,9 +2,8 @@
   img{
     height: 100%;
     object-fit: cover;
-   
-  }
-}
+   }
+
 .card{
   border-radius: 4px;
   position: relative;
@@ -20,4 +19,15 @@
       #020617
     );
   }
+
+figcaption{
+  position: absolute;
+  bottom: 0%;
+  padding: 24px;
+
+ h2{
+    margin-top: 8px;
+  }
+}
+}
 }
